@@ -1,0 +1,1 @@
+Solving nonlinear differential equations with differentiable quantum circuits ([paper](https://www.researchgate.net/publication/351651802_Solving_nonlinear_differential_equations_with_differentiable_quantum_circuits/citation/download))
